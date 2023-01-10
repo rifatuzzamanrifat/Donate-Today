@@ -1,0 +1,191 @@
+body {
+  font-family: "Dancing Script", cursive;
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+}
+.first-sec {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.15), 55%, black),
+    url(img/donation1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 250px;
+  text-align: center;
+  margin-bottom: 150px;
+}
+.f-h {
+  color: white;
+  font-size: 80px;
+}
+.f-p {
+  color: white;
+  font-size: 22px;
+  margin-bottom: 50px;
+  margin-top: -50px;
+}
+.f-btn {
+  text-decoration: none;
+  color: white;
+  background-color: #ff5959;
+  padding: 20px 30px;
+  font-size: 22px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.sceound-sec {
+  text-align: center;
+  margin-bottom: 150px;
+}
+h2 {
+  font-size: 60px;
+}
+.s-p {
+  color: #707070;
+  font-size: 22px;
+  margin-bottom: 130px;
+  margin-top: -25px;
+}
+.s-d {
+  font-size: 35px;
+  margin-bottom: 150px;
+}
+.s-a {
+  text-decoration: none;
+  color: #707070;
+  font-weight: bold;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.s-a-a {
+  color: #ff5959;
+  border: solid;
+  border-radius: 6px;
+  color: #ff5959;
+  font-size: 40px;
+}
+.s-input input {
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+  font-size: 22px;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  margin-bottom: 50px;
+}
+.third-sec {
+  text-align: center;
+}
+.t-sec {
+  display: flex;
+  padding: 10%;
+  text-align: left;
+  margin-top: -200px;
+}
+h3 {
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+.t-food {
+  background-color: #dbebed;
+  border-radius: 6px;
+  padding-top: 80px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.t-shelter {
+  background-color: #ffdddd;
+  border-radius: 6px;
+  padding-top: 80px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.t-frame {
+  background-color: #fff4d6;
+  border-radius: 6px;
+  padding-top: 80px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.box-text {
+  padding-top: 10px;
+}
+footer {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  text-align: center;
+  background-color: #0b0d17;
+}
+h4 {
+  color: #ff5959;
+  font-size: 60px;
+  margin-bottom: -10px;
+}
+h5 {
+  color: grey;
+  font-size: 20px;
+}
+.fourth-f {
+  display: flex;
+  margin-bottom: 150px;
+}
+.fourth-s {
+  display: flex;
+  margin-bottom: 150px;
+}
+.fourth-text-f {
+  padding-left: 10%;
+  padding-right: 5%;
+}
+.fourth-text-s {
+  padding-left: 10%;
+  padding-right: 5%;
+}
+.last-img-f {
+  padding-right: 15%;
+}
+.last-img-s {
+  padding-left: 11%;
+}
+.last-p-f {
+  font-size: 25px;
+  margin-top: 60px;
+  padding-right: 20%;
+  margin-bottom: 90px;
+}
+.last-p-s {
+  font-size: 25px;
+  margin-top: -70px;
+  padding-right: 20%;
+  margin-bottom: 90px;
+}
+.last-sec {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.last-btn {
+  text-decoration: none;
+  color: white;
+  background-color: #ff5959;
+  padding: 20px 30px;
+  font-size: 22px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.last-input input {
+  width: 20%;
+  padding: 18px 0 16px 0;
+  font-size: 22px;
+  border-radius: 6px;
+  margin-bottom: 150px;
+}
+#l-input {
+  padding-left: 1%;
+}
